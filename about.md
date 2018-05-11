@@ -1,7 +1,12 @@
 ---
-layout: single
+layout: collection
 title: About me
 permalink: /about/
+author_profile: true
+read_time: true
+comments: # true
+share: true
+related: false
 header:
     image: /assets/images/Lake_Tahoe.jpg
 ---
