@@ -104,7 +104,7 @@ author:
   location         :  "New York, NY"
   email            :  "rons.shah@gmail.com"
   uri              :
-  home             :  "/about" # null (default), "absolute or relative url to link to author home"
+  home             :  "/about"# null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :

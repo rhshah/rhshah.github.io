@@ -1,11 +1,10 @@
 ---
-layout: page
-title: About
+layout: single
+title: About me
 permalink: /about/
 header:
     image: /assets/images/Lake_Tahoe.jpg
 ---
-# About me
 
 During my years as a student of Science and Mathematics during my [High School](https://childrens-academy.co.in/) years back in India, Biology interested me apart from Computers. The first aspect of Biology that interested me was Genetics. It was all so interesting and fascinating and at that point of time, and I never knew that this fascination of mine towards both biology and computers will drive me towards Bioinformatics, the supposed jargon at that time. It was through internet that I got to know about Bioinformatics and its application. Those made me pretty much sure about my future path. I started reading about the Human Genome project, g_enes_, genomes and it all started attracting me.
 
